@@ -1,3 +1,0 @@
-
-Person 1 name: titu
-Person 2 name: tori
