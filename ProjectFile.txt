@@ -1,0 +1,16 @@
+
+Person 1 name: Anveer
+Person 1 NID: 343126798
+Person 1 contact no: +8801985649901
+Person 1 Date of Birth: 11 December 1995
+Person 1 permanent address: Baliakandi, Rajbari
+Person 2 name: Alom
+Person 2 NID: 367123098
+Person 2 contact no: +8801711549579
+Person 2 Date of Birth: 17 March 1997
+Person 2 permanent address: Jhiltuli, Faridpur
+Person 3 name: Riyad
+Person 3 NID: 312781245
+Person 3 contact no: +8801985287652
+Person 3 Date of Birth: 28 May 1996
+Person 3 permanent address: R.K Mission Road, Magura
